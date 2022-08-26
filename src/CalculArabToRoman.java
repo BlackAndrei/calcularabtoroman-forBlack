@@ -1,6 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
+/* Комментарии от ментора по твоему решению ТЗ:
+ Все пять классов с методом main, непонятно какой запускать, выгрузи проект с одной точкой входа */
 public class CalculArabToRoman {
     static Scanner scan = new Scanner(System.in);
     public static int n1, n2;
